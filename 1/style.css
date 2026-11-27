@@ -1,0 +1,22 @@
+ul {
+	font-size: 10px;
+}
+li {
+	font-size: 2em;
+}
+
+#elem {
+font-size: 20px;
+}
+
+.elem1 {
+    font-size: 1.5em;
+}
+
+#elem1 {
+    font-size: 30px;
+}
+
+.elem2 {
+    font-size: 0.5em;
+}
