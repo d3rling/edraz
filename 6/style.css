@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+}
+div {
+    display: flex;
+	margin: 30vh auto 20px auto;
+    width: 700px;
+	height: 500px;
+	border: 1px solid red;
+}
+
+#elem {
+	width: 70vw;
+	height: 70vw;
+	margin: 0 auto;
+	border: 1px solid red;
+}
