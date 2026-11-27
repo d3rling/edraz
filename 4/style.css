@@ -1,0 +1,23 @@
+main {
+	margin: 1em auto;
+}
+h1 {
+	font-size: 2em;
+}
+p {
+	font-size: 2em;
+}
+
+#elem {
+	margin: 2em auto;
+}
+#elem1 {
+	font-size: 2em;
+}
+.elem {
+	font-size: 1em;
+	margin-bottom: 2em;
+}
+.elem1 {
+	font-size: 1.25em;
+}
