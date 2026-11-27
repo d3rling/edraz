@@ -1,0 +1,34 @@
+section {
+	font-size: 10px;
+}
+div {
+	font-size: 2em;
+	margin: 2em;
+}
+
+#elem {
+	font-size: 10px;
+}
+#elem1 {
+	font-size: 2em;
+	margin: 3em;
+}
+
+#elem3 {
+	font-size: 10px;
+}
+#elem4 {
+	font-size: 2em;
+	margin: 0.5em;
+}
+
+#elem6 {
+	font-size: 10px;
+}
+#elem7 {
+	font-size: 2em;
+}
+#elem8 {
+	font-size: 2em;
+	margin: 2em;
+}
